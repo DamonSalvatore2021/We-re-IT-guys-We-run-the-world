@@ -1,0 +1,20 @@
+#complete the statment below
+a=input()
+b=str(a)
+c=2
+#write code to extract and sum digit of given number withoug using loops
+sum=0
+
+#sum of digits code ends here.
+if(len(a)==3):
+    
+    sum=(int(b[0])+int(b[1])+int(b[2]))
+    if(sum%2==0):
+        
+        print("Sum of digits is Even")
+    elif(sum%2!=0 ):
+        
+        print("Sum of digits is Odd")
+   
+else:
+   print("Your input is not three digit")
