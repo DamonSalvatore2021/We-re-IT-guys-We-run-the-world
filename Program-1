@@ -1,0 +1,8 @@
+a=int(input()) # read the value of kms type conversion may be required to added. 
+
+#write your code here
+print(a*1000,"meters")  #Write in the paranthesis appropriate expression for conversion into meters as per test case output
+print(a*100000,"centimeters")  #Write in the paranthesis appropriate expression for conversion into centimeters as per test case output
+print(a*1000000,"millimeters")  #Write in the paranthesis appropriate expression for conversion into milimeters as per test case output
+
+#end of the code
