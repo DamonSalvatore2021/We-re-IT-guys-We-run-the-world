@@ -1,0 +1,5 @@
+seconds=int(input())
+Hours=int(seconds/3600)
+Minutes=int((int(seconds/60))%60)
+y=seconds-(Minutes*60)-(Hours*3600)
+print("Hours:",Hours,"Minutes:",Minutes,"Seconds:",y)
