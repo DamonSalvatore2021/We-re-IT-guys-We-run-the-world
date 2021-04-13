@@ -1,0 +1,17 @@
+a=int(input())
+b=int(input())
+
+#write your code here
+print(a*b)  #Write the expression to match the test case input output.
+print(a+b)#Write the expression to match the test case input output
+print(a/b)#Write the expression to match the test case input output
+print(a//b)#Write the expression to match the test case input output 
+print(a%b)#Write the expression to match the test case input output.
+print(a ^ b)#Write the expression to match the test case input output.
+print(a and b)#Write the expression to match the test case input output.
+print(a or b)#Write the expression to match the test case input output.
+print(a is b)#Write the expression to match the test case input output.
+print(a is not b)#Write the expression to match the test case input output.
+print(a<b)#Write the expression to match the test case input output.
+
+#end of the code
